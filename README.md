@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains (or rather will contain) the shared interface definitions for the [Onyx32](https://github.com/yottaawesome/onyx32) dynamic library. The definitions are held separately because it's intended that the [Boring32](https://github.com/yottaawesome/boring32) static library will provide runtime implementations of these interfaces, thus allowing Onyx32 to use these static implementations without having to duplicate interface definitions and implementations. This allows Onyx32 and Boring32 to have a unified interface.
+This repo contains (or rather will contain) the shared interface definitions for the [Onyx32](https://github.com/yottaawesome/onyx32) dynamic library. The definitions are held separately because it's intended that the [Boring32](https://github.com/yottaawesome/boring32) static library will provide runtime implementations of these interfaces, thus allowing Onyx32 to use these static implementations without having to duplicate interface definitions and implementations. This allows Onyx32 and Boring32 to have a unified API.
 
 ## Using this repo
 
