@@ -1,7 +1,7 @@
 #pragma once
-#include "../Onyx32.hpp"
 #include <string>
 #include <Windows.h>
+#include "../Onyx32.hpp"
 
 namespace Onyx32::Core::Async
 {
